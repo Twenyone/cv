@@ -30,7 +30,7 @@ module.exports = {
       location: 'Mestre and Mira, Italy',
       mode: 'Hybrid',  // or 'Remote', 'Hybrid'
       period: 'since October 2020',
-      skills: ['.NET Core', 'AzureSQL', 'SQLServer', 'SQLite', 'Angular', 'AngularJS', 'ReactNative', 'Azure DevOps', 'CI/CD', 'Git'],
+      skills: ['.NET Core', 'AzureSQL', 'SQLServer', 'T-SQL', 'SQLite', 'Angular', 'AngularJS', 'ReactNative', 'Azure DevOps', 'CI/CD', 'Git', 'Expo'],
       contents: `
   My first experience in Bizeta was working for the GShop Suite making small integrations and by creating 
   an ETL connector (.NET Core) for GShop Suite and [IdStore](https://www.custom.biz/en_GB/product/software/id-store) 
