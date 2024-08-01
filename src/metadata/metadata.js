@@ -30,7 +30,7 @@ module.exports = {
       location: 'Mestre and Mira, Italy',
       mode: 'Hybrid',  // or 'Remote', 'Hybrid'
       period: 'since October 2020',
-      skills: ['.NET Core', 'AzureSQL', 'SQLServer', 'MySQLite', 'Angular', 'AngularJS', 'ReactNative', 'Azure DevOps', 'CI/CD', 'Git'],
+      skills: ['.NET Core', 'AzureSQL', 'SQLServer', 'SQLite', 'Angular', 'AngularJS', 'ReactNative', 'Azure DevOps', 'CI/CD', 'Git'],
       contents: `
   My first experience in Bizeta was working for the GShop Suite making small integrations and by creating 
   an ETL connector (.NET Core) for GShop Suite and [IdStore](https://www.custom.biz/en_GB/product/software/id-store) 
@@ -39,7 +39,7 @@ module.exports = {
   which is part of the Software Business Unit of Custom S.p.a. OneStore is a point of sale solution for the retail fashion and luxury sector.
   The Backend is developed in its entirety with .NET and recently I started developing more and more on the frontend side in ReactNative and bundled with [Expo](https://expo.dev).
 
-  Other technologies used: SQL Server, Azure SQL Server, MySQLite, Azure Dev
+  Other technologies used: SQL Server, Azure SQL Server, SQLite, Azure Dev
   For version control and branch workflow: Git with Azure DevOps, GitKraken (Git GUI), using release branch workflow with pull request policies`
   }
   ],
