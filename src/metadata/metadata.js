@@ -38,7 +38,7 @@ module.exports = {
   Two years ago i was moved into the development team for [OneStore](https://www.custom.biz/en_GB/product/software/onestore), 
   which is part of the Software Business Unit of Custom S.p.a. OneStore is a point of sale solution for the retail fashion and luxury sector.
   The Backend is developed in its entirety with .NET and recently I started developing more and more on the frontend side in ReactNative and bundled with [Expo](https://expo.dev).
-  
+
   Other technologies used: SQL Server, Azure SQL Server, MySQLite, Azure Dev
   For version control and branch workflow: Git with Azure DevOps, GitKraken (Git GUI), using release branch workflow with pull request policies`
   }
@@ -52,6 +52,17 @@ module.exports = {
       period: 'september 2014 - july 2020 · 5 years',
       skills: ['computer sciences', 'mathematics', 'electronics'],
       contents: `Specialized subjects studied: mathematics, computer science, statistics, electronics.`
+    }
+  ],
+  languages: [
+    {
+      title: 'Italian',
+      levels: ['Mother Tongue']
+    },
+    {
+      title: 'English',
+      isSecondLanguage: true,
+      levels:['Listening: B2', 'Reading: B2', 'Writing: B2', 'Speaking: B2']
     }
   ]
 };

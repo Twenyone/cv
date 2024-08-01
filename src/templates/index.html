@@ -109,16 +109,13 @@
         {{/each}}
     </div>
 
-    <h2 class="mb-4">Additional Experience</h2>
+    <h2 class="mb-4">Language skills</h2>
 
-    {{#each experience}}
+    {{#each languages}}
     <div class="mb-4">
-        <h3 class="fs-4 fw-normal">{{ header }}</h3>
-
-        {{{markdown contents }}}
-
+        <h3 class="fs-4 fw-normal">{{ title }}</h3>
         <div>
-            {{#each skills }}
+            {{#each levels }}
             <span class="badge text-body border border-1">{{ this }}</span>
             {{/each}}
         </div>
