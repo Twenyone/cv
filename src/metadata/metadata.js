@@ -31,6 +31,7 @@ module.exports = {
       mode: 'Remote',  // or 'Remote', 'Hybrid',
       period: 'January 2025 - Present',
       skills: ['.NET Core', 'DevExpress', 'SQLServer', 'T-SQL','Git', 'Docker'],
+      contents: ``
     },
     {
       title: 'Software Engineer',
