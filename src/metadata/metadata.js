@@ -25,11 +25,19 @@ module.exports = {
   },
   positions: [
     {
-      title: 'Software Developer',
+      title: 'Software Engineer',
+      company: 'Blizzard S.R.L',
+      location: 'Mira, Venice, Italy',
+      mode: 'Remote',  // or 'Remote', 'Hybrid',
+      period: 'January 2025 - Present',
+      skills: ['.NET Core', 'DevExpress', 'SQLServer', 'T-SQL','Git', 'Docker'],
+    },
+    {
+      title: 'Software Engineer',
       company: 'Bizeta Retail Solutions srl | a Custom company / Custom S.p.A',
       location: 'Mestre and Mira, Italy',
       mode: 'Hybrid',  // or 'Remote', 'Hybrid'
-      period: 'since October 2020',
+      period: 'October 2020 - January 2025 · 4 years 4 months',
       skills: ['.NET Core', 'AzureSQL', 'SQLServer', 'T-SQL', 'SQLite', 'Angular', 'AngularJS', 'ReactNative', 'Azure DevOps', 'CI/CD', 'Git', 'Expo'],
       contents: `
   My first experience in Bizeta was working for the GShop Suite making small integrations and by creating 
