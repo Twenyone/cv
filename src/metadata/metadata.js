@@ -31,7 +31,11 @@ module.exports = {
       mode: 'Remote',  // or 'Remote', 'Hybrid',
       period: 'January 2025 - Present',
       skills: ['.NET Core', 'DevExpress', 'SQLServer', 'T-SQL','Git', 'Docker'],
-      contents: ``
+      contents: `
+  I started working for Blizzard S.R.L in January 2025 as a Software Engineer.
+  I have been working on the development of a new tool that allows users to manange industrial machines, using .NET Core and DevExpress for the frontend, and SQL Server for the database.
+  I am also involved in the maintenance and improvement of existing tools, using Git for version control and Docker for containerization.
+      `
     },
     {
       title: 'Software Engineer',
@@ -44,7 +48,7 @@ module.exports = {
   My first experience in Bizeta was working for the GShop Suite making small integrations and by creating 
   an ETL connector (.NET Core) for GShop Suite and [IdStore](https://www.custom.biz/en_GB/product/software/id-store) 
   to replace older handhandled Windows CE devices with newer Android ones (Xamarin Android).
-  Two years ago i was moved into the development team for [OneStore](https://www.custom.biz/en_GB/product/software/onestore), 
+  In 2022 i was moved into the development team for [OneStore](https://www.custom.biz/en_GB/product/software/onestore), 
   which is part of the Software Business Unit of Custom S.p.a. OneStore is a point of sale solution for the retail fashion and luxury sector.
   The Backend is developed in its entirety with .NET and recently I started developing more and more on the frontend side in ReactNative and bundled with [Expo](https://expo.dev).
 
